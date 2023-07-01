@@ -100,46 +100,47 @@
 <h2 align="left">Projects · Labs · Research · Code</h2>
 
 ###
-
-[Access Control Assessment.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Access%20Control%20Assessment.pdf)
+<h6 align="left"> Much of the documents are reports from lab/exams completed during one of my certifications, or during a stand-alone lab </h6>
 
 [Access Control Lab.ipynb](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Access%20Control%20Lab.ipynb)
 
-[Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Analysis%20of%20Files%20and%20URLs%20for%20malicious%20content%20and%20IoCs%20using%20VirusTotal%2C%20using%20Pyramid%20of%20Pain%20Framework.pdf)
+[Access Control Assessment](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Access%20Control%20Assessment.pdf)
 
-[Analysis of network hardening.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Analysis%20of%20network%20hardening.pdf)
+[Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Analysis%20of%20Files%20and%20URLs%20for%20malicious%20content%20and%20IoCs%20using%20VirusTotal%2C%20using%20Pyramid%20of%20Pain%20Framework.pdf)
 
-[Applying the PASTA threat model framework.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Applying%20the%20PASTA%20threat%20model%20framework.pdf)
+[Analysis of network hardening](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Analysis%20of%20network%20hardening.pdf)
 
-[Botium, Security Audit.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Botium%2C%20Security%20Audit.pdf)
+[Applying the PASTA threat model framework](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Applying%20the%20PASTA%20threat%20model%20framework.pdf)
 
-[Botium, Stakeholder Memorandum.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Botium%2C%20Stakeholder%20Memorandum.pdf)
+[Botium, Security Audit](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Botium%2C%20Security%20Audit.pdf)
+
+[Botium, Stakeholder Memorandum](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Botium%2C%20Stakeholder%20Memorandum.pdf)
 
 [Controlling Access to Restricted Content.ipynb](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Controlling%20Access%20to%20Restricted%20Content.ipynb)
 
-[File Decryption with Linux CLI.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/File%20Decryption%20with%20Linux%20CLI.pdf)
+[File Decryption with Linux CLI](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/File%20Decryption%20with%20Linux%20CLI.pdf)
 
 [Importing & Parsing Security logs.ipynb](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Importing%20%26%20Parsing%20Security%20logs.ipynb)
 
-[Incident Log, Analyzing Wireshark TCP HTTP.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20Log%2C%20Analyzing%20Wireshark%20TCP%20HTTP.pdf)
+[Incident Log, Analyzing Wireshark TCP HTTP](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20Log%2C%20Analyzing%20Wireshark%20TCP%20HTTP.pdf)
 
-[Incident Report - Network Traffic Analysis.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20Report%20-%20Network%20Traffic%20Analysis.pdf)
+[Incident Report - Network Traffic Analysis](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20Report%20-%20Network%20Traffic%20Analysis.pdf)
 
-[Incident report - OS hardening techniques - DNS & HTTP log.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20report%20-%20OS%20hardening%20techniques%20-%20DNS%20%26%20HTTP%20log.pdf)
+[Incident report - OS hardening techniques - DNS & HTTP log](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Incident%20report%20-%20OS%20hardening%20techniques%20-%20DNS%20%26%20HTTP%20log.pdf)
 
-[Linux CLI Labs.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Linux%20CLI%20Labs.pdf)
+[Linux CLI Labs](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Linux%20CLI%20Labs.pdf)
 
 [Python - Security Analyst Pattern Recognition.ipynb](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Python%20Pattern%20Recognition.ipynb)
 
-[Splunk & Chronicle - SIEM labs.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/SIEM%20labs.pdf)
+[Splunk & Chronicle - SIEM labs](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/SIEM%20labs.pdf)
 
-[SQL Queries - Techniques and Wildcards.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/SQL%20Queries%20-%20Techniques%20and%20Wildcards.pdf)
+[SQL Queries - Techniques and Wildcards](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/SQL%20Queries%20-%20Techniques%20and%20Wildcards.pdf)
 
-[Suricata - Examining alerts, logs, and rules.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Suricata%20Lab%20-%20Examining%20alerts%2C%20logs%2C%20and%20rules.pdf)
+[Suricata - Examining alerts, logs, and rules](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Suricata%20Lab%20-%20Examining%20alerts%2C%20logs%2C%20and%20rules.pdf)
 
-[Utilizing NIST Framework to respond to a security incident.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
+[Utilizing NIST Framework to respond to a security incident](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
 
-[Utilizing a Playbook to respond to a phishing incident.pdf](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Utilizing%20a%20Playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)
+[Utilizing a Playbook to respond to a phishing incident](https://github.com/CE-Yazeed/Portfolio_Draft/blob/f1ff927b43317510399cb1fb3edcb39de51ed504/Utilizing%20a%20Playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)
 
 <br>
 
