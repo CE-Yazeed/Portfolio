@@ -136,7 +136,7 @@
 
 [SQL Queries - Techniques and Wildcards](SQL%20Queries%20-%20Techniques%20and%20Wildcards.pdf)
 
-[Suricata - Examining alerts, logs, and rules](Suricata Lab%20-%20Examining%20alerts,%20logs,%20and%20rules.pdf)
+[Suricata - Examining alerts, logs, and rules](Suricata%20Lab%20-%20Examining%20alerts,%20logs,%20and%20rules.pdf)
 
 [Utilizing NIST Framework to respond to a security incident](Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
 
