@@ -102,45 +102,45 @@
 ###
 <h6 align="left"> Much of the documents are reports from lab/exams completed during one of my certifications, or during a stand-alone lab </h6>
 
-[Access Control Lab.ipynb](Portfolio_Draft/Access Control Lab.ipynb)
+[Access Control Lab.ipynb](Access%20Control%20Lab.ipynb)
 
-[Access Control Assessment](Portfolio_Draft/Access Control Assessment.pdf)
+[Access Control Assessment](Access%20Control%20Assessment.pdf)
 
-[Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework](Portfolio_Draft/Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework.pdf)
+[Analysis of Files and URLs for malicious content and IoCs using VirusTotal, using Pyramid of Pain Framework](Analysis%20of%20Files%20and%20URLs%20for%20malicious%20content%20and%20IoCs%20using%20VirusTotal,%20using%20Pyramid%20of%20Pain%20Framework.pdf)
 
-[Analysis of network hardening](Portfolio_Draft/Analysis of network hardening.pdf)
+[Analysis of network hardening](Analysis%20of%20network%20hardening.pdf)
 
-[Applying the PASTA threat model framework](Portfolio_Draft/Applying the PASTA threat model framework.pdf)
+[Applying the PASTA threat model framework](Applying%20the%20PASTA%20threat%20model%20framework.pdf)
 
-[Botium, Security Audit](Portfolio_Draft/Botium, Security Audit.pdf)
+[Botium, Security Audit](Botium,%20Security%20Audit.pdf)
 
-[Botium, Stakeholder Memorandum](Portfolio_Draft/Botium, Stakeholder Memorandum.pdf)
+[Botium, Stakeholder Memorandum](Botium,%20Stakeholder%20Memorandum.pdf)
 
-[Controlling Access to Restricted Content.ipynb](Portfolio_Draft/Controlling Access to Restricted Content.ipynb)
+[Controlling Access to Restricted Content.ipynb](Controlling%20Access%20to%20Restricted%20Content.ipynb)
 
-[File Decryption with Linux CLI](Portfolio_Draft/File Decryption with Linux CLI.pdf)
+[File Decryption with Linux CLI](File%20Decryption%20with%20Linux%20CLI.pdf)
 
-[Importing & Parsing Security logs.ipynb](Portfolio_Draft/Importing & Parsing Security logs.ipynb)
+[Importing & Parsing Security logs.ipynb](Importing%20&%20Parsing%20Security%20logs.ipynb)
 
-[Incident Log, Analyzing Wireshark TCP HTTP](Portfolio_Draft/Incident Log, Analyzing Wireshark TCP HTTP.pdf)
+[Incident Log, Analyzing Wireshark TCP HTTP](Incident%20Log,%20Analyzing%20Wireshark%20TCP%20HTTP.pdf)
 
-[Incident Report - Network Traffic Analysis](Portfolio_Draft/Incident Report - Network Traffic Analysis.pdf)
+[Incident Report - Network Traffic Analysis](Incident%20Report%20-%20Network%20Traffic%20Analysis.pdf)
 
-[Incident report - OS hardening techniques - DNS & HTTP log](Portfolio_Draft/Incident report - OS hardening techniques - DNS & HTTP log.pdf)
+[Incident report - OS hardening techniques - DNS & HTTP log](Incident%20report%20-%20OS%20hardening%20techniques%20-%20DNS%20&%20HTTP%20log.pdf)
 
-[Linux CLI Labs](Portfolio_Draft/Linux CLI Labs.pdf)
+[Linux CLI Labs](Linux%20CLI%20Labs.pdf)
 
-[Python - Security Analyst Pattern Recognition.ipynb](Portfolio_Draft/Python Pattern Recognition.ipynb)
+[Python - Security Analyst Pattern Recognition.ipynb](Python%20Pattern%20Recognition.ipynb)
 
-[Splunk & Chronicle - SIEM labs](Portfolio_Draft/SIEM labs.pdf)
+[Splunk & Chronicle - SIEM labs](SIEM%20labs.pdf)
 
-[SQL Queries - Techniques and Wildcards](Portfolio_Draft/SQL Queries - Techniques and Wildcards.pdf)
+[SQL Queries - Techniques and Wildcards](SQL%20Queries%20-%20Techniques%20and%20Wildcards.pdf)
 
-[Suricata - Examining alerts, logs, and rules](Portfolio_Draft/Suricata Lab - Examining alerts, logs, and rules.pdf)
+[Suricata - Examining alerts, logs, and rules](Suricata Lab%20-%20Examining%20alerts,%20logs,%20and%20rules.pdf)
 
-[Utilizing NIST Framework to respond to a security incident](Portfolio_Draft/Utilizing NIST Framework to respond to a security incident.pdf)
+[Utilizing NIST Framework to respond to a security incident](Utilizing%20NIST%20Framework%20to%20respond%20to%20a%20security%20incident.pdf)
 
-[Utilizing a Playbook to respond to a phishing incident](Portfolio_Draft/Utilizing a Playbook to respond to a phishing incident.pdf)
+[Utilizing a Playbook to respond to a phishing incident](Utilizing%20a%20Playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)
 
 <br>
 
