@@ -100,7 +100,7 @@
 <h2 align="left">Projects · Labs · Research · Code</h2>
 
 ###
-<h6 align="left"> Much of the documents are reports from lab/exams completed during one of my certifications, or during a stand-alone lab </h6>
+
 
 [Access Control Lab.ipynb](Access%20Control%20Lab.ipynb)
 
