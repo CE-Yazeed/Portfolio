@@ -71,6 +71,7 @@
 <div align="left">
   <img src="https://i.imgur.com/QIjqcME.png" height="40" alt="Splunk"  />
   <img src="https://www.vmray.com/wp-content/uploads/2022/11/chronicle_logo.png" height="40" alt="Google Chronicle"  />
+  <img src="https://suricata.io/wp-content/uploads/2022/01/LogoHoriz-SuricataFinal-4-translucent.png" height="40" alt="Suricata"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tcpdump%26libpcap.svg/1280px-Tcpdump%26libpcap.svg.png" height="40" alt="tcpdump"  />
   <img src="https://i.imgur.com/ocQGOBT.png" height="40" alt="Wireshark"  />
   <img src="https://i.imgur.com/Op3iZ22.png" height="40" alt="CISCO Packet Tracer"  />
