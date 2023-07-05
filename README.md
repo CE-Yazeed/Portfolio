@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-  I am a computer engineer (B.Sc.Comp.E) planning to do an MSc in Cybersecurity and Artificial Intelligence, with a keen interest in machine learning. 
+  I am a computer engineer (B.Sc.Comp.E) planning to do an MSc in Cybersecurity, with a keen interest in AI and machine learning. 
   Throughout my journey, I have acquired knowledge in diverse areas including mathematics, computer science, electrical engineering, computer engineering and hardware, artificial intelligence, and cyber security.</p>
 
 
